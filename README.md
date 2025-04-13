@@ -41,3 +41,12 @@ Open Git Fork, navigate to file, clone, and enter the url, https://github.com/Am
 
 Choose a destination on your computer and select clone
 
+📦 Install & Run Locally
+
+run these commands to run the website locally
+
+npm install     # Install all dependencies
+npm run dev     # Start the local dev server
+
+then click on localhost:3000 to see the website
+
