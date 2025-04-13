@@ -46,6 +46,8 @@ Choose a destination on your computer and select clone
 
 ### 2. Install & Run Locally
 
+```bash
+
 run these commands to run the website locally
 
 npm install     # Install all dependencies
