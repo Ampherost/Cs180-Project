@@ -41,7 +41,9 @@ Open Git Fork, navigate to file, clone, and enter the url, https://github.com/Am
 
 Choose a destination on your computer and select clone
 
-📦 Install & Run Locally
+---
+
+### 2. Install & Run Locally
 
 run these commands to run the website locally
 
