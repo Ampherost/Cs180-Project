@@ -1,6 +1,6 @@
-# 🧠 CodeBoost — Practice Coding Smarter
+# 🧠 CodeConquest — Practice Coding Smarter
 
-CodeBoost is a web app designed to help developers improve their coding fundamentals through interactive practice problems.
+CodeConquest is a web app designed to help developers improve their coding fundamentals through interactive practice problems.
 
 Built using [Next.js](https://nextjs.org), [Tailwind CSS](https://tailwindcss.com), and deployed on [Vercel](https://vercel.com). Auth and backend are powered by [Supabase](https://supabase.com) (optional).
 
