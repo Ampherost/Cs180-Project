@@ -32,5 +32,9 @@ Built using [Next.js](https://nextjs.org), [Tailwind CSS](https://tailwindcss.co
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/codeboost.git
+git clone https://github.com/Ampherost/Cs180-Project.git
 cd codeboost
+
+### 2. Using the Git Fork Client
+
+2.1 Open Git Fork, navigate to file, clone, and enter the url, https://github.com/Ampherost/Cs180-Project.git
