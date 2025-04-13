@@ -41,6 +41,7 @@ Open Git Fork, navigate to file, clone, and enter the url, https://github.com/Am
 
 Choose a destination on your computer and select clone
 
+```
 ---
 
 ### 2. Install & Run Locally
