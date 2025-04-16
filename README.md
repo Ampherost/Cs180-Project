@@ -20,10 +20,8 @@ Built using [Next.js](https://nextjs.org), [Tailwind CSS](https://tailwindcss.co
 
 - [Next.js](https://nextjs.org) — React framework
 - [Tailwind CSS](https://tailwindcss.com) — utility-first styling
-- [Supabase](https://supabase.com) — optional backend (Postgres + Auth)
+- [Supabase](https://supabase.com) — backend (Postgres + Auth)
 - [Vercel](https://vercel.com) — deployment platform
-- [Monaco Editor](https://microsoft.github.io/monaco-editor/) — (optional) in-browser code editor
-- [Judge0 API](https://judge0.com) — for executing and testing code safely
 
 ---
 
