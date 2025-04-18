@@ -10,7 +10,7 @@ Built using [Next.js](https://nextjs.org), [Tailwind CSS](https://tailwindcss.co
 
 - 📝 Learn about various cs subjects
 - 💻 Test and master your knowledge
-- ✅ Test your solutions and get instant feedback
+- ✅ Get instant feedback with your solutions
 - 🔐 User login (Supabase Auth)
 - 📈 Track your progress (Supabase)
 
